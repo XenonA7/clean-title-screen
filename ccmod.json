@@ -1,0 +1,14 @@
+{
+	"id": "clean-title-screen",
+	"version": "1.0",
+	"title": {
+		"en_US": "Clean Title Screen"
+	},
+	"description": {
+		"en_US": "Removes Lea from the title screen"
+	},
+	"icons": {
+		"24": "icon.png"
+	},
+	"dependencies": {}
+}
