@@ -7,6 +7,9 @@
 	"description": {
 		"en_US": "Removes Lea from the title screen"
 	},
+	"repository": "https://github.com/XenonA7/clean-title-screen",
+	"tags": ["cosmetic"],
+	"authors": "xenon",
 	"icons": {
 		"24": "icon.png"
 	},
