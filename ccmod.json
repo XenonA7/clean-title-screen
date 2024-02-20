@@ -1,6 +1,6 @@
 {
 	"id": "clean-title-screen",
-	"version": "1.0",
+	"version": "1.1",
 	"title": {
 		"en_US": "Clean Title Screen"
 	},
@@ -9,7 +9,7 @@
 	},
 	"repository": "https://github.com/XenonA7/clean-title-screen",
 	"tags": ["cosmetic"],
-	"authors": "xenon",
+	"authors": "XenonA7",
 	"icons": {
 		"24": "icon.png"
 	},
